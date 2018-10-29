@@ -1,0 +1,30 @@
+body{
+    background-color: lightblue;
+    font-family: "Monotype Corsiva";
+    margin: 10%;
+}
+
+#title{
+    text-align: center;
+    font-size: 50px;
+    color: darkslateblue;
+}
+
+#sign, #zodiac{
+    text-align: center;
+    font-size: 40px;
+    color: darkslateblue;
+}
+
+#horoscope, #returnName, .labels{
+    font-size: 30px;
+}
+
+#image{
+    width: 100%;
+}
+
+#img{
+    width: 25%;
+    margin: auto;
+}
